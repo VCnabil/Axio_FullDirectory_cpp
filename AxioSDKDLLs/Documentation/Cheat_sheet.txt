@@ -1,0 +1,2 @@
+All of the refs are included on this repo.
+as wella as a walkthrough for setting up the project.
