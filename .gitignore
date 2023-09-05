@@ -1,0 +1,121 @@
+ 
+ 
+# Exclude project settings from being ignored
+!AxioCANUSBCon/AxioCANUSBcon/*.sln
+!AxioCANUSBCon/AxioCANUSBcon/*.csproj
+!AxioCANUSBCon/AxioCANUSBcon/*.vbproj
+!AxioCANUSBCon/AxioCANUSBcon/*.props 
+ 
+ # User-specific files
+AxioCANUSBCon/AxioCANUSBcon/*.rsuser
+AxioCANUSBCon/AxioCANUSBcon/*.suo
+AxioCANUSBCon/AxioCANUSBcon/*.user
+AxioCANUSBCon/AxioCANUSBcon/*.userosscache
+AxioCANUSBCon/AxioCANUSBcon/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+AxioCANUSBCon/AxioCANUSBcon/*.userprefs
+
+# Mono auto generated files
+AxioCANUSBCon/AxioCANUSBcon/mono_crash.*
+
+
+# Build results
+AxioCANUSBCon/AxioCANUSBcon/[Dd]ebug/
+AxioCANUSBCon/AxioCANUSBcon/[Dd]ebugPublic/
+AxioCANUSBCon/AxioCANUSBcon/[Rr]elease/
+AxioCANUSBCon/AxioCANUSBcon/[Rr]eleases/
+AxioCANUSBCon/AxioCANUSBcon/x64/
+AxioCANUSBCon/AxioCANUSBcon/x86/
+AxioCANUSBCon/AxioCANUSBcon/[Ww][Ii][Nn]32/
+AxioCANUSBCon/AxioCANUSBcon/[Aa][Rr][Mm]/
+AxioCANUSBCon/AxioCANUSBcon/[Aa][Rr][Mm]64/
+AxioCANUSBCon/AxioCANUSBcon/bld/
+AxioCANUSBCon/AxioCANUSBcon/[Bb]in/
+AxioCANUSBCon/AxioCANUSBcon/[Oo]bj/
+AxioCANUSBCon/AxioCANUSBcon/[Ll]og/
+AxioCANUSBCon/AxioCANUSBcon/[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+AxioCANUSBCon/AxioCANUSBcon/.vs/
+
+# NUnit
+AxioCANUSBCon/AxioCANUSBcon/*.VisualState.xml
+AxioCANUSBCon/AxioCANUSBcon/TestResult.xml
+AxioCANUSBCon/AxioCANUSBcon/nunit-*.xml
+
+# Build Results of an ATL Project
+AxioCANUSBCon/AxioCANUSBcon/[Dd]ebugPS/
+AxioCANUSBCon/AxioCANUSBcon/[Rr]eleasePS/
+AxioCANUSBCon/AxioCANUSBcon/dlldata.c
+
+# Benchmark Results
+AxioCANUSBCon/AxioCANUSBcon/BenchmarkDotNet.Artifacts/
+
+# .NET Core
+AxioCANUSBCon/AxioCANUSBcon/project.lock.json
+AxioCANUSBCon/AxioCANUSBcon/project.fragment.lock.json
+AxioCANUSBCon/AxioCANUSBcon/artifacts/
+
+# ASP.NET Scaffolding
+AxioCANUSBCon/AxioCANUSBcon/ScaffoldingReadMe.txt
+
+# StyleCop
+AxioCANUSBCon/AxioCANUSBcon/StyleCopReport.xml
+
+AxioCANUSBCon/AxioCANUSBcon/*_i.c
+AxioCANUSBCon/AxioCANUSBcon/*_p.c
+AxioCANUSBCon/AxioCANUSBcon/*_h.h
+AxioCANUSBCon/AxioCANUSBcon/*.ilk
+AxioCANUSBCon/AxioCANUSBcon/*.meta
+AxioCANUSBCon/AxioCANUSBcon/*.obj
+AxioCANUSBCon/AxioCANUSBcon/*.iobj
+AxioCANUSBCon/AxioCANUSBcon/*.pch
+AxioCANUSBCon/AxioCANUSBcon/*.pdb
+AxioCANUSBCon/AxioCANUSBcon/*.ipdb
+AxioCANUSBCon/AxioCANUSBcon/*.pgc
+AxioCANUSBCon/AxioCANUSBcon/*.pgd
+AxioCANUSBCon/AxioCANUSBcon/*.rsp
+AxioCANUSBCon/AxioCANUSBcon/*.sbr
+AxioCANUSBCon/AxioCANUSBcon/*.tlb
+AxioCANUSBCon/AxioCANUSBcon/*.tli
+AxioCANUSBCon/AxioCANUSBcon/*.tlh
+AxioCANUSBCon/AxioCANUSBcon/*.tmp
+AxioCANUSBCon/AxioCANUSBcon/*.tmp_proj
+AxioCANUSBCon/AxioCANUSBcon/*_wpftmp.csproj
+AxioCANUSBCon/AxioCANUSBcon/*.log
+AxioCANUSBCon/AxioCANUSBcon/*.tlog
+AxioCANUSBCon/AxioCANUSBcon/*.vspscc
+AxioCANUSBCon/AxioCANUSBcon/*.vssscc
+AxioCANUSBCon/AxioCANUSBcon/*.pidb
+AxioCANUSBCon/AxioCANUSBcon/*.svclog
+AxioCANUSBCon/AxioCANUSBcon/*.scc
+AxioCANUSBCon/AxioCANUSBcon/.builds
+
+
+# Visual C++ cache files
+AxioCANUSBCon/AxioCANUSBcon/ipch/
+AxioCANUSBCon/AxioCANUSBcon/*.aps
+AxioCANUSBCon/AxioCANUSBcon/*.ncb
+AxioCANUSBCon/AxioCANUSBcon/*.opendb
+AxioCANUSBCon/AxioCANUSBcon/*.opensdf
+AxioCANUSBCon/AxioCANUSBcon/*.sdf
+AxioCANUSBCon/AxioCANUSBcon/*.cachefile
+AxioCANUSBCon/AxioCANUSBcon/*.VC.db
+AxioCANUSBCon/AxioCANUSBcon/*.VC.VC.opendb
+
+
+# Visual Studio profiler
+AxioCANUSBCon/AxioCANUSBcon/*.psess
+AxioCANUSBCon/AxioCANUSBcon/*.vsp
+AxioCANUSBCon/AxioCANUSBcon/*.vspx
+AxioCANUSBCon/AxioCANUSBcon/*.sap
+
+# Visual Studio Trace Files
+AxioCANUSBCon/AxioCANUSBcon/*.e2e
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+AxioCANUSBCon/AxioCANUSBcon/*.[Cc]ache
+# but keep track of directories ending in .cache
+!AxioCANUSBCon/AxioCANUSBcon/?*.[Cc]ache/
